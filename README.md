@@ -167,17 +167,6 @@ python -m microchain.runs.scenario_plain \
 
 ---
 
-## Minimal comparison (what to cite)
-
-- Plain FL (mem or IPFS): **~1.6 s** median per round  
-- BC-FL: **~2.0 s** median per round  
-- **Overhead** vs Plain FL: **~+25%**, dominated by consensus scheduling (intent → publish → finalize).  
-- Aggregation and IPFS I/O are negligible in this single-host setup.
-
-Use the script in the **TL;DR** section to print these from your own run CSVs.
-
----
-
 ## Key metrics (quick reference)
 
 - **`round_dur_secs_median`** — primary end-to-end round latency.  
@@ -215,6 +204,6 @@ Use the script in the **TL;DR** section to print these from your own run CSVs.
 
 ## Citation
 
-> Alexandros Balla, *Support Federated Learning via PoS Blockchains*, Thesis Defense Repository, 2025. Repository: `Thesis_DEFENSE_BALLA_ALEXANDROS`.
+> Alexandros Balla, *Supporting Decentralized Federated Learning via PoS Blockchains*, Thesis Defense Repository, 2025. Repository: `Thesis_DEFENSE_BALLA_ALEXANDROS`.
 
 ---
