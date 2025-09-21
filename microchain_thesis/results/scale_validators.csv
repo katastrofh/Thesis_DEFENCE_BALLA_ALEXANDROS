@@ -1,6 +1,0 @@
-validators,clients,deposit,reward,tau,runtime,remainder_sink,rand_period,seed,ipfs_fail_rate,intent_cap,fee_policy,round_index,balances_sum,entitlements_sum,pools_sum,locked_deposits,treasury,conserved_money,blocks_applied,txs_applied,avg_txs_per_block,avg_fee_per_tx,unique_eligibilities,missed_proposals,forks_observed,fees_charged,fees_distributed,rounds,alloc_total,refund_total,forfeit_total,remainder_total,included_total,refunds_count_total,ml_rounds,ml_last_acc_before,ml_last_acc_after,ml_impr_sum,ml_clients_used_sum
-1,10,20,1000,0.8,12.0,treasury,16,21,0.0,3,proposer,1,2807,0,0,200,3,3010,24,53,2.2083,1.283019,24,0,0,68,68,1,997,200,0,3,10,10,0,0.000,0.000,0.0000,0
-3,10,20,1000,0.8,12.0,treasury,16,21,0.0,3,proposer,1,2807,0,0,200,3,3010,31,53,1.7097,1.283019,31,0,30,68,68,1,997,200,0,3,10,10,0,0.000,0.000,0.0000,0
-5,10,20,1000,0.8,12.0,treasury,16,21,0.0,3,proposer,1,2807,0,0,200,3,3010,30,53,1.7667,1.283019,30,0,29,68,68,1,997,200,0,3,10,10,0,0.000,0.000,0.0000,0
-7,10,20,1000,0.8,12.0,treasury,16,21,0.0,3,proposer,1,2630,0,0,200,180,3010,30,44,1.4667,1.136364,30,0,29,50,50,1,1000,20,180,0,1,1,0,0.000,0.000,0.0000,0
-9,10,20,1000,0.8,12.0,treasury,16,21,0.0,3,proposer,1,2649,0,0,200,161,3010,34,45,1.3235,1.155556,34,0,33,52,52,1,999,40,160,1,2,2,0,0.000,0.000,0.0000,0

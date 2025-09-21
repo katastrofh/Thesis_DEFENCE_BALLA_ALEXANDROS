@@ -1,5 +1,0 @@
-validators,clients,deposit,reward,tau,runtime,remainder_sink,rand_period,seed,ipfs_fail_rate,intent_cap,fee_policy,round_index,balances_sum,entitlements_sum,pools_sum,locked_deposits,treasury,conserved_money,blocks_applied,txs_applied,avg_txs_per_block,avg_fee_per_tx,unique_eligibilities,missed_proposals,forks_observed,fees_charged,fees_distributed,rounds,alloc_total,refund_total,forfeit_total,remainder_total,included_total,refunds_count_total,ml_rounds,ml_last_acc_before,ml_last_acc_after,ml_impr_sum,ml_clients_used_sum
-3,5,20,1000,0.8,12.0,treasury,4,42,0.0,3,proposer,1,1908,0,0,100,2,2010,20,28,1.4000,1.357143,20,0,19,38,38,1,998,100,0,2,5,5,0,0.000,0.000,0.0000,0
-3,5,20,1000,0.8,12.0,treasury,8,42,0.0,3,proposer,1,1908,0,0,100,2,2010,19,23,1.2105,1.434783,19,0,18,33,33,1,998,100,0,2,5,5,0,0.000,0.000,0.0000,0
-3,5,20,1000,0.8,12.0,treasury,16,42,0.0,3,proposer,1,1908,0,0,100,2,2010,30,28,0.9333,1.357143,30,0,29,38,38,1,998,100,0,2,5,5,0,0.000,0.000,0.0000,0
-3,5,20,1000,0.8,12.0,treasury,32,42,0.0,3,proposer,1,1908,0,0,100,2,2010,28,28,1.0000,1.357143,28,0,27,38,38,1,998,100,0,2,5,5,0,0.000,0.000,0.0000,0
